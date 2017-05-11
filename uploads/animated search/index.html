@@ -1,0 +1,47 @@
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+
+		 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+        <script type="text/javascript">
+			$( document ).ready(function() {
+
+
+			$('.header').on('click', '.search-toggle', function(e) {
+			  var selector = $(this).data('selector');
+			
+			  $(selector).toggleClass('show').find('.search-input').focus();
+			  $(this).toggleClass('active');
+			
+			  e.preventDefault();
+			});
+			});
+		</script>
+	</head>
+     <body>
+        <header id="header-2" class="header">
+          <h3>Example #2</h3>
+          <nav class="header-nav">
+            <div class="search-button">
+              <a href="#" class="search-toggle" data-selector="#header-2"></a>
+            </div>
+            <ul class="menu">
+              <li><a href="#">Mac</a></li>
+              <li><a href="#">iPad</a></li>
+              <li><a href="#">iPhone</a></li>
+              <li><a href="#">Watch</a></li>
+            </ul>
+            <form action="" class="search-box">
+              <input type="text" class="text search-input" placeholder="Type here to search..." />
+            </form>
+          </nav>
+        </header>
+       
+   
+            hello
+            
+        </body>
+        
+</html>

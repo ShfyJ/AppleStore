@@ -1,0 +1,12 @@
+[09-May-2017 18:17:51 Asia/Tashkent] PHP Notice:  Undefined variable: KsXCJDyRmIOC in /home/blueskyu/public_html/ip/login_reg/userClass.php on line 13
+[09-May-2017 18:21:39 Asia/Tashkent] PHP Notice:  Undefined variable: KsXCJDyRmIOC in /home/blueskyu/public_html/ip/login_reg/userClass.php on line 13
+[09-May-2017 18:49:38 Asia/Tashkent] PHP Warning:  include(../headfooter/header.php): failed to open stream: No such file or directory in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[09-May-2017 18:49:38 Asia/Tashkent] PHP Warning:  include(../headfooter/header.php): failed to open stream: No such file or directory in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[09-May-2017 18:49:38 Asia/Tashkent] PHP Warning:  include(): Failed opening '../headfooter/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[09-May-2017 18:49:43 Asia/Tashkent] PHP Warning:  include(../headfooter/header.php): failed to open stream: No such file or directory in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[09-May-2017 18:49:43 Asia/Tashkent] PHP Warning:  include(../headfooter/header.php): failed to open stream: No such file or directory in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[09-May-2017 18:49:43 Asia/Tashkent] PHP Warning:  include(): Failed opening '../headfooter/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blueskyu/public_html/ip/login_reg/register.php on line 114
+[11-May-2017 00:31:42 Asia/Tashkent] PHP Notice:  Use of undefined constant uid - assumed 'uid' in /home/blueskyu/public_html/ip/login_reg/register.php on line 136
+[11-May-2017 00:38:29 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '<' in /home/blueskyu/public_html/ip/login_reg/register.php on line 197
+[11-May-2017 00:38:33 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '<' in /home/blueskyu/public_html/ip/login_reg/register.php on line 197
+[11-May-2017 00:38:37 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '<' in /home/blueskyu/public_html/ip/login_reg/register.php on line 197

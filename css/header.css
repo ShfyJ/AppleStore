@@ -1,0 +1,159 @@
+#navbar ul a:hover{
+    padding-left: 30px;
+    	color:#00a3cc;
+   
+    
+}
+
+#small-box{
+    width: 100px;
+    height: 100px;
+}
+
+
+#small-box1{
+    margin-top:0px;
+    padding-top:0px;
+    width: 80px;
+    height: 80px;
+}
+
+
+.caret .dropdown-menu span{
+    width: 30px;
+  
+}
+.search-box1{
+    
+  height:40px;
+    width: 230px;
+      -webkit-width:130px;
+     -moz-width: 130px;
+    margin-top: 80px;
+  margin-left: 80px;
+  
+    
+    
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    
+   border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+   
+   
+    
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    
+     -webkit-transition: width 0.4s ease-in-out;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+
+
+.productname{
+ padding: 12px 20px 12px 40px;
+}
+
+.search-box1 :focus {
+    width: 100%;
+     -webkit-width: 100%;
+     -moz-width: 100%;
+   
+}
+
+
+     .carousel-inner img {
+         margin-top: 30px;
+      width: 100%; /* Set width to 100% */
+      /*margin: auto;*/
+      min-height:200px;
+  }
+
+    
+#shift-me {
+   padding-right: 30px;
+}
+
+
+#logo .navbar-brand{
+   border-left: 5px ;
+}
+
+.site_logo{
+ /*border-top: 5px ;	*/
+ /* border-left: 20px ;	 */
+width:20px; 
+height: 20px;}
+
+
+
+.site_logo ul a:hover{
+    	color:#e6faff;
+    	
+}
+
+#not-working  a{
+  padding-left: 10px;
+    
+  
+    
+}
+
+
+#not-working a:hover{
+
+	text-decoration:none;
+			
+}
+
+
+.navbar-default{
+    border-bottom: 10px;
+}
+
+#navbar ul a{
+    padding-left: 30px;
+    
+    padding-right: 30px;
+    
+}
+
+#image-box{
+ 	position: absoulte;
+    width:315px;
+    height:325px;
+   
+    
+}
+
+.productbox1 {
+    text-align:center;
+    margin-top: 20px;
+   padding: 15px 15px 15px 15px;
+   background-color: #f8f8f8;
+   height: 100px;
+   min-height: 100px;
+}
+
+@media (max-) {
+    .productbox1 {
+        display: 50px;
+    }}
+
+
+.title{
+    font-size: 20px;
+    text-decoration:none;
+}
+@media (max-width: 600px) {
+    .carousel-caption {
+      display: none;  
+    }
+    
+}

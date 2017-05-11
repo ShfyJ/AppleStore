@@ -1,0 +1,19 @@
+
+#wrapper{
+	background: #fff;
+	margin: 50px auto 20px auto;
+	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+	padding:0px 10px;
+}
+
+
+section.homepage-slider,
+section.navbar,
+section.google_map,
+section#footer-bar,
+section#copyright{
+	margin-left: -10px; 
+	margin-right: -10px;	
+}
